@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/Genie_info/4eme_annee/2eme_s/Najib/Pipmlex/partage/jstl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/Genie_info/4eme_annee/2eme_s/Najib/Pipmlex/partage/mysql-connector-java-5.1.36-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dell/Desktop/Genie_info/4eme_annee/2eme_s/Najib/Pipmlex/partage/standard.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
